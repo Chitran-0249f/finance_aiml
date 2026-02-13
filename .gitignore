@@ -2,7 +2,7 @@
 venv/
 __pycache__/
 GIT_COMMANDS.md
-src/pipeline.log
+pipeline.log
 #*.pyc
 #*.pyo
 #*.pyd
