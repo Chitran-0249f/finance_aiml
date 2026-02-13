@@ -5,12 +5,12 @@ def extract_us_market_prices(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
 
     symbols = {
-        "sp_futures": "ES=F",
-        "dow_futures": "YM=F",
-        "nasdaq_futures": "NQ=F",
+        "sp_futures": "^GSPC",
+        "dow_futures": "^DJI",
+        "nasdaq_futures": "^IXIC",
         "gold": "GC=F",
         "crude_oil": "CL=F",
-        "russell_2000": "RTY=F",
+        "russell_2000": "^RUT",
         "vix": "^VIX"
     }
 
