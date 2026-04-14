@@ -11,3 +11,29 @@ insert_market_snapshot({
 })
 
 print("✅ Database insert OK")
+
+
+
+
+
+
+
+
+
+
+
+## DELETE ALL THE BELOW IF NOT NEEDED 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
