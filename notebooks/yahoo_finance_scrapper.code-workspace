@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../market_data_streaming"
+		},
+		{
+			"path": "../../VScodeFiles"
+		},
+		{
+			"path": "../../C#HelloWorldFromVSCode"
+		},
+		{
+			"path": "../../py_scripts"
+		}
+	],
+	"settings": {}
+}
